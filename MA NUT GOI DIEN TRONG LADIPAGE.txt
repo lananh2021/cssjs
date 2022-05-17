@@ -1,0 +1,19 @@
+<link href="https://raw.githack.com/linhfaceseo/cssjs/master/phongring.css" rel="stylesheet" type="text/css">
+
+
+<div class="fix_tel">
+	    <div class="ring-alo-phone ring-alo-green ring-alo-show" id="ring-alo-phoneIcon" style="right: 150px; bottom: -12px;">
+	        <div class="ring-alo-ph-circle"></div>
+	        <div class="ring-alo-ph-circle-fill"></div>
+	        <div class="ring-alo-ph-img-circle">
+
+	          <a href="tel:0919940960" class="clickcall">
+	            <img class="lazy callbody clickcall" src="https://tratinhtam.com/wp-content/uploads/2019/10/nut-goi.png" alt="" data-l="" scale="0">
+	            
+	            </a>
+	        </div>
+	      </div>
+	      <div class="tel clickcall">
+	          <p class="fone clickcall">0919940960</p>
+	    </div>
+</div>
